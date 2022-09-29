@@ -9,4 +9,5 @@
     echo '<br>Total de pessoas que consultaram o IMC:', $totalConsulta;
     //vai aparecer essa dsgraça lá no git isso é bruxaria rapaz
     // reverse
+    //fazendo um teste para ver se eu lembro como se faz a bruxaria
 ?> 
