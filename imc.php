@@ -8,4 +8,5 @@
     echo 'IMC  igual: ',calcularMassaCorporal(80,1.80),'<br>';
     echo '<br>Total de pessoas que consultaram o IMC:', $totalConsulta;
     //vai aparecer essa dsgraça lá no git isso é bruxaria rapaz
+    // reverse
 ?> 
